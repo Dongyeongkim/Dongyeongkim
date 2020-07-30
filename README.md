@@ -9,7 +9,7 @@
 #### ⚡ Fun fact: Caffeine is the best thing ever in world :) 
 
 
-#### Intel ISEF 19'-20' Finalist in Systems Software
+#### Intel ISEF 18'-19' Finalist in Systems Software
 
 #### AAAI Student member(July 2019 to July 2020)
 
