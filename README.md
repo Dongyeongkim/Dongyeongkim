@@ -13,3 +13,5 @@
 #### AAAI Student member(July 2019 to July 2020)
 
 #### Trying to see artificial neural networks in biological way!
+
+#### Blog(Written in Korean): https://dongyeongkim.tistory.com/
