@@ -1,6 +1,7 @@
 ### DongyeongKim 
 
 [![Dongyeongkim's github stats](https://github-readme-stats.vercel.app/api?username=Dongyeongkim)](https://github.com/Dongyeongkim/Dongyeongkim)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dongyeongkim)](https://github.com/anuraghazra/github-readme-stats)
 
 #### 📫 How to reach me: email: dongyeongkim33@gmail.com
 
